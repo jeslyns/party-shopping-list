@@ -2,3 +2,5 @@ drinks
 cola
 pepsi
 miranda
+champagne
+water
